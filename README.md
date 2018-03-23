@@ -5,6 +5,6 @@ Also the big and important part of the program is reading files and writing to t
 Using such classes as Scanner, BufferWriter, FileWriter, BufferReader, FileReader, IOException, custom (written by me) Exception class, custom Movie class
 Collections and Interfaces: List, ArrayList, Iterator
 
-DataDriver.java - the driver program that uses all of the created classes and the data, and shows the output
+DataDriver.java - the driver program that uses all of the created classes and the data, and shows the output \n
 Movie.java - the class that represents a movie from the data
 MovieCreationException.java - a written exception
